@@ -31,19 +31,15 @@ Derivative works must respect the naming restrictions.
 Each project has its own repository. General steps to get started with any project:
 
 ```bash
-git clone <project-repo-url>
-cd <project-folder>
+git clone (https://github.com/reframedorg/arc
+cd arc
 ```
 Install dependencies if applicable:
-```bash
-dependencies commands like `npm install`
-default example:
 ```bash
 npm install
 ```
 Start the project:
 ```bash
-default example:
 npm start
 ```
 ## Contributing
