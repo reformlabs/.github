@@ -26,22 +26,6 @@ Derivative works must respect the naming restrictions.
 - Focus on maintainability and clarity
 - Strict branding and contribution rules
 
-## Getting Started
-
-Each project has its own repository. General steps to get started with any project:
-
-```bash
-git clone (https://github.com/reframedorg/arc
-cd arc
-```
-Install dependencies if applicable:
-```bash
-npm install
-```
-Start the project:
-```bash
-npm start
-```
 ## Contributing
 Contributions are only accepted from Reframed Org members.
 Please follow internal guidelines for pull requests, code reviews, and commit messages.
