@@ -15,7 +15,7 @@ Our projects prioritize collaboration, reusability, and clear branding, while ma
 ## RFLS-1.0 License
 
 All projects under Reframed Org are licensed under **RFLS-1.0**.  
-See the [LICENSE](LICENSE) file for details.  
+See the [LICENSE](LICENSE.md) file for details.  
 This license allows internal use, modification, and redistribution **only within Reframed Org**.  
 Derivative works must respect the naming restrictions.
 
