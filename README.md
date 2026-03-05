@@ -2,9 +2,9 @@
 
 ![License](https://img.shields.io/badge/license-RFLS--1.0-blue)
 
-## About Reframed Org
+## About Reform Labs
 
-**Reframed Org** (also known as **Reframed Team**) develops a suite of innovative, modular, and open software projects.  
+**Reform Labs** (also known as **Reframed Organization**) develops a suite of innovative, modular, and open software projects.  
 Our projects prioritize collaboration, reusability, and clear branding, while maintaining legal and licensing boundaries.
 
 ### Mission
@@ -19,7 +19,7 @@ See the [LICENSE](LICENSE.md) file for details.
 This license allows internal use, modification, and redistribution **only within Reframed Org**.  
 Derivative works must respect the naming restrictions.
 
-## Features of Reframed Projects
+## Features of Reform Labs Projects
 
 - Modular architecture across all projects
 - Easy to extend and integrate components
