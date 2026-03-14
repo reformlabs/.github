@@ -12,7 +12,7 @@ Our projects prioritize collaboration, reusability, and clear branding, while ma
 ### Mission
 - Build high-quality, modular software components for internal and external use.
 - Encourage structured collaboration under the **RFLS-1.0 License**.
-- Protect the Reframed brand: derivative projects **cannot use "Reframed", "Reframed Org", or "Reframed Team" names** without explicit written permission.
+- Protect the Reform brand: derivative projects **cannot use "Reform", "Reform Labs", or "Reframed Team" names** without explicit written permission.
 
 ## RFLS-1.0 License
 
