@@ -1,5 +1,9 @@
 # Reform Labs Projects
 
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/reformlabs/.github/main/public/reformlabs loading.svg" width="1096" height="496" />
+</div>
+
 ![License](https://img.shields.io/badge/license-RFLS--1.0-blue)
 
 ## About Reform Labs
